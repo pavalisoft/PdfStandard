@@ -1,9 +1,0 @@
-E:\Work\Projects\PdfStandard\FontBox\Src\Pavalisoft.PdfStandard.FontBox\obj\Debug\netstandard2.0\Pavalisoft.PdfStandard.FontBox.csprojAssemblyReference.cache
-E:\Work\Projects\PdfStandard\FontBox\Src\Pavalisoft.PdfStandard.FontBox\obj\Debug\netstandard2.0\Pavalisoft.PdfStandard.FontBox.csproj.CoreCompileInputs.cache
-E:\Work\Projects\PdfStandard\FontBox\Src\Pavalisoft.PdfStandard.FontBox\obj\Debug\netstandard2.0\Pavalisoft.PdfStandard.FontBox.AssemblyInfoInputs.cache
-E:\Work\Projects\PdfStandard\FontBox\Src\Pavalisoft.PdfStandard.FontBox\obj\Debug\netstandard2.0\Pavalisoft.PdfStandard.FontBox.AssemblyInfo.cs
-E:\Work\Projects\PdfStandard\FontBox\Src\Pavalisoft.PdfStandard.FontBox\bin\Debug\netstandard2.0\Pavalisoft.PdfStandard.FontBox.deps.json
-E:\Work\Projects\PdfStandard\FontBox\Src\Pavalisoft.PdfStandard.FontBox\bin\Debug\netstandard2.0\Pavalisoft.PdfStandard.FontBox.dll
-E:\Work\Projects\PdfStandard\FontBox\Src\Pavalisoft.PdfStandard.FontBox\bin\Debug\netstandard2.0\Pavalisoft.PdfStandard.FontBox.pdb
-E:\Work\Projects\PdfStandard\FontBox\Src\Pavalisoft.PdfStandard.FontBox\obj\Debug\netstandard2.0\Pavalisoft.PdfStandard.FontBox.dll
-E:\Work\Projects\PdfStandard\FontBox\Src\Pavalisoft.PdfStandard.FontBox\obj\Debug\netstandard2.0\Pavalisoft.PdfStandard.FontBox.pdb
